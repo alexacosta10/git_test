@@ -32,15 +32,15 @@ h2 {
 }
 img {
     border: 3px solid grey;
-    width: 500px;
-    height: auto;
+    width: auto;
+    height: 300px;
 }
-ul li, ol li {
+li {
     padding: 4px;
     margin-left: 460px;
     margin-right: 500px;
 }
-div {
+.line {
     padding: 1px;
     margin-left: 300px;
     margin-right: 300px;
@@ -50,4 +50,7 @@ button {
     margin: 20px;
     border: 4px ridge red;
     font-size: x-large;
+}
+a {
+    color: grey;
 }
